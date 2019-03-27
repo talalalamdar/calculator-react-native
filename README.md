@@ -1,4 +1,4 @@
 # calculator-react-native
 Simple calculator UI. Built with Javascript and ReactNative
 
-![calculator-img](calculator-react-native/assets/calculator-img.JPG)
+![calculator-img](raw.githubusercontent.com/talalalamdar/calculator-react-native/assets/calculator-img.JPG)
